@@ -1,0 +1,2 @@
+从 6 个小圆开始，每轮把数量翻倍，用同一个平方根公式算新半径 \(r_n\)，再用 \(nr_n/R\) 逼近 π。整个过程只用四则运算和平方根，无需先知道 π，还能用内接和外切多边形给出上下界
+Starting with six small circles, double their number at each step and use the same square-root recurrence to calculate the new radius \(r_n\). Then approximate \(\pi\) using \(nr_n/R\). The entire process requires only basic arithmetic and square roots, with no prior knowledge of the numerical value of \(\pi\). Inscribed and circumscribed regular polygons also provide lower and upper bounds for \(\pi\).
